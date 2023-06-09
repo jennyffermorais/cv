@@ -1,3 +1,6 @@
+# Veja meu Currículo aqui:
+✨ https://jennyffermorais.github.io/cv/ ✨
+
 # Curriculum Vitae Online
 
 Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
@@ -7,7 +10,7 @@ O projeto tem como objetivo montar nossa primeira página web que será a replic
 Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
 
 
-**Fork do projeto:** 
+**Fork do projeto:**
 
 https://github.com/digitalinnovationone/cv
 
@@ -154,4 +157,3 @@ Além disso, o GitHub Pages também suporta Jekyll, um gerador de sites estátic
 Sobre html: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 
 Emojis: https://www.w3schools.com/charsets/ref_emoji.asp
-
